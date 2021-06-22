@@ -1,10 +1,12 @@
 <h2 align="center">Olá, sou Nathan Lucena</h2>
 <h4 align="Left">Contatos:</h4>
-<a href="https://www.linkedin.com/in/nathan-l-8981b5161/">
+<a href="https://www.linkedin.com/in/nathan-l-8981b5161/" 
+    target="_blank" rel="noopener noreferrer">
   <img alt="Nathan Lucena LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://t.me/Natan89">
+<a href="https://t.me/Natan89" 
+    target="_blank" rel="noopener noreferrer">
   <img alt="Nathan Lucena Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
@@ -16,9 +18,9 @@ _Fique a vontade para dar uma olhada nos meus repositórios dicas e criticas sem
 
 <h3 align="Left">Linguagens:</h3>
 <p 
-  <b>
+  <a>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </b> 
+  </a> 
   <a>
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </a>
