@@ -88,7 +88,6 @@ _Fique a vontade para dar uma olhada nos meus repositórios dicas e criticas sem
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanlucena&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devangelogoncalo" /></p>
 
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F568790627928202477%2F&psig=AOvVaw3C14xtiG6itC4rb7kNSIhB&ust=1618802133016000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOipjoPqhvACFQAAAAAdAAAAABAD">
-  <img align="Right" alt="Gif" width="330px" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif" />
-</a>
+
+  <img alt="Gif"  src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif" />
 
