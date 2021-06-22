@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Nathan Lucena</h1>
+<h2 align="center">Olá, sou Nathan Lucena</h2>
 <h4 align="Left">Contatos:</h4>
 <a href="https://www.linkedin.com/in/nathan-l-8981b5161/">
   <img alt="Nathan Lucena LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -87,4 +87,8 @@ _Fique a vontade para dar uma olhada nos meus repositórios dicas e criticas sem
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanlucena&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="devangelogoncalo" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanlucena&show_icons=true&theme=dark&hide_border=true&locale=en" alt="devangelogoncalo" /></p>
+
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F568790627928202477%2F&psig=AOvVaw3C14xtiG6itC4rb7kNSIhB&ust=1618802133016000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOipjoPqhvACFQAAAAAdAAAAABAD">
+  <img align="Right" alt="Gif" width="330px" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif" />
+</a>
 
