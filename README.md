@@ -36,7 +36,7 @@ _Fique a vontade para dar uma olhada nos meus repositórios dicas e criticas sem
 <h3 align="Left">Frameworks:</h3>
 <p 
   <a>
-    <img alt="React" src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
   <a>
     <img alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
