@@ -34,5 +34,4 @@ Desenvolvedor Full Stack, focado em criar e otimizar soluções web robustas e e
   <a><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   <a><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 </p>
-<h3 align="Left">Metodologias:</h3>
 <img alt="Gif" width="500px" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif" />
