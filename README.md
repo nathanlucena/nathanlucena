@@ -35,9 +35,4 @@ Desenvolvedor Full Stack, focado em criar e otimizar soluções web robustas e e
   <a><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 </p>
 <h3 align="Left">Metodologias:</h3>
-<p>
-  <a><img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" /></a>
-  <a><img alt="Kanban" src="https://img.shields.io/badge/Kanban-0077B5?style=for-the-badge&logo=kanban&logoColor=white" /></a>
-  <a><img alt="Pair Programming" src="https://img.shields.io/badge/Pair_Programming-FF2D20?style=for-the-badge&logo=pair-programming&logoColor=white" /></a>
-</p>
 <img alt="Gif" width="500px" src="https://27a7x92iyp7i4yd8b4bgzvnb-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/api.gif" />
